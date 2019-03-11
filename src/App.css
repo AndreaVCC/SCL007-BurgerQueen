@@ -1,10 +1,22 @@
 .App {
   text-align: center;
-  padding: 20px;
+  padding: 0px;
+  margin: 0px;
 }
 
+.navegation{
+  background: black;
+  color: black; 
+}
 
+.botons{
+padding: 20px;
+}
 
+.botonespedido{
+padding: 20px
+
+}
 
 
 
