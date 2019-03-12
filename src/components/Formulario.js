@@ -17,9 +17,6 @@ class Formulario extends Component {
           <p>Ingrese Nombre:<input type="text" value={this.state.nombre} onChange={this.cambioNombre} /></p>
           <p><input type="submit" /></p>
         </form>
-        <hr />
-        <h3>Datos Ingresados</h3>
-        <p>Nombre:{this.state.nombre}</p>
       </div>
     );
   }

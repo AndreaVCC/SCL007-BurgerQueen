@@ -8,9 +8,10 @@ import './App.css';
 import Buttons from './components/Buttons'
 import Mensaje from './components/Mensaje'
 import Aleatorio from './components/Aleatorio'
-import Aleatorioenarreglo from './components/Aleatorioenarreglo'
 import Reloj from './components/Reloj'
 import Formulario from './components/Formulario'
+import Fabian from './components/Fabian'
+
 
 
 
@@ -63,11 +64,11 @@ updateMessage() {
 -----------------------------------------------------------------
             <Aleatorio/>
 ----------- -----------------------------------------------------
-            <Aleatorioenarreglo/>
- ------------------------------------------------------------------
             <Reloj/>
 -----------------------------------------------------------------
             <Formulario/>
+-----------------------------------------------------------------
+            <Fabian contenido='Presioname' className='btn btn-secondary'/>
       </div>
     );
   }
