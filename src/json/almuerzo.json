@@ -1,0 +1,46 @@
+{
+    "almuerzo": [
+
+        {
+        "item": "Hamburguesa simple",
+        "precio": "1500"
+        },
+
+        {
+        "item": "Hamburguesa doble",
+        "precio": "2500"
+        },
+
+        {
+        "item": "Papas fritas",
+        "precio": "500"
+        },
+
+        {
+        "item": "Onion rings",
+        "precio": "500"
+        },
+
+        {
+        "item": "Agua 500ml",
+        "precio": "500"
+        },
+        
+        {
+        "item": "Agua 750ml",
+        "precio": "800"
+        },
+            
+        {
+        "item": "Gaseosa 500ml",
+        "precio": "700"
+        },
+
+        {
+        "item": "Gaseosa 1000ml",
+        "precio": "1000"
+        }
+
+    ]
+
+}
